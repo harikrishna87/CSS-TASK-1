@@ -1,0 +1,16 @@
+h1 {
+    font-size: 30px;
+    text-align: center;
+    font-weight: 700;
+    color: white;
+    background-color: red;
+}
+.ol {
+    text-align: center;
+    font-size: 25px;
+    background-color: aqua;
+}
+.li1 {
+    justify-content: center;
+    text-align: center;
+}
